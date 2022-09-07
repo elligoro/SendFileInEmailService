@@ -1,0 +1,1 @@
+﻿this service is responsible for sending mail with csv attachment
